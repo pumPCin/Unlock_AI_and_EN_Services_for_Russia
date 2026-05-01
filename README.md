@@ -55,7 +55,7 @@
 * Разблокировка более 70 популярных AI-, медиа- и облачных сервисов.
 * OTA-обновления модуля (см. `update.json`).
 * Защита от вредоносных сайтов: скримеров и IP-логгеров.
-* Полностью офлайн-решение — без VPN, прокси и сторонних приложений.
+* Для сервисов без отдельной сетевой блокировки РКН работает без VPN, прокси и сторонних приложений.
 
 ---
 
@@ -83,34 +83,33 @@
 ---
 
 ## 🌍 Поддерживаемые сервисы
-Список формируется на основе содержимого [`system/etc/hosts`](./source/system/etc/hosts) и регулярно пополняется. Краткий обзор:
+Список формируется на основе содержимого [`system/etc/hosts`](./source/system/etc/hosts) и регулярно пополняется. Ниже перечислены основные пользовательские сервисы; помимо них в `hosts` также включены вспомогательные API, CDN и домены авторизации этих платформ.
 
-### 📱 Социальные сети и мессенджеры
-* Instagram • TikTok • Truth Social • Guilded
+> **Важно:** модуль не обходит прямые блокировки РКН на сетевом уровне. Если конкретный сервис заблокирован РКН по IP / SNI / TLS или иным способом, без дополнительных средств (VPN, прокси, zapret, byebyedpi и т.п.) он работать не будет.
 
-### 🧠 ИИ-сервисы
-* ChatGPT / OpenAI (включая Sora) • Claude • Grok • Gemini • Google AI Studio / NotebookLM / Labs • Microsoft Copilot • GitHub Copilot • ElevenLabs • DeepL
+### 📱 Социальные сети и медиа
+* Instagram • TikTok • Truth Social • Twitch • Patreon
 
-### 🎮 Игры
-* Clash Royale • Clash of Clans • Brawl Stars • Xbox (+ Cloud Gaming) • Microsoft Rewards
+### 🧠 ИИ и ассистенты
+* ChatGPT / OpenAI (включая Sora и Operator) • Claude • Grok • Gemini • Google AI Studio • Google AI API • NotebookLM • Jules • Stitch • Microsoft Copilot • GitHub Copilot • JetBrains AI • ElevenLabs • DeepL • Trae • Windsurf • Manus
+
+### 🎮 Игры и гейминг
+* Clash Royale • Clash of Clans • Brawl Stars • Squad Busters • mo.co • Xbox (+ Cloud Gaming) • Supercell ID / Store • Microsoft Rewards • Parsec
 
 ### 🎵 Музыка
 * Spotify • Tidal • Deezer
 
-### ✉️ Почта и облако
-* Proton Mail
+### 🧩 Разработка и создание контента
+* GitHub API • JetBrains (Datalore, Plugins, загрузки) • Linear • Canva • Framer • Autodesk • NVIDIA Developer • Guided Hacking • Tria.ge
 
-### 🧩 Разработка
-* GitHub (API & Copilot) • JetBrains (Datalore, Plugins, CDN) • Google AI API • NVIDIA Dev • Parsec • Manus API
-
-### 🛠 Продуктивность
-* Notion • Canva • Intel • Broadcom • Dell • Weather.com • Imgur • Web Archive • Tria.ge
+### ☁️ Сервисы и веб-платформы
+* Tailscale • Notion • Weather.com • Internet Archive • Qwant • Imgur • Intel • Dell • Broadcom • Elgato • Dyson • Rutor • ntc.party
 
 ### ⌚️ Здоровье
 * Fitbit
 
-### 💳 Платежи
-* Square / Squareup (via Tidal)
+### 💳 Платежи и финтех
+* Square / Squareup • Pump.fun
 
 ### 🚫 Блокировка вредных сайтов
 * Скримеры: `only-fans.*`, `onlyfans.wtf` и др.
