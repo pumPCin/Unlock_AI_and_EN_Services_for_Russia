@@ -21,6 +21,8 @@
   <a href="https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/releases/latest"><img src="https://img.shields.io/github/v/release/AvenCores/Unlock_AI_and_EN_Services_for_Russia?style=for-the-badge" alt="Latest release"></a>
   <a href="https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/stargazers"><img src="https://img.shields.io/github/stars/AvenCores/Unlock_AI_and_EN_Services_for_Russia?style=for-the-badge" alt="GitHub stars"></a>
   <img src="https://img.shields.io/github/forks/AvenCores/Unlock_AI_and_EN_Services_for_Russia?style=for-the-badge" alt="GitHub forks">
+  <a href="https://github.com/AvenCores/open-antigravity-patcher/watchers">
+  <img src="https://img.shields.io/github/watchers/AvenCores/Unlock_AI_and_EN_Services_for_Russia?style=for-the-badge" alt="GitHub Watchers"></a>
   <a href="https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/releases"><img src="https://img.shields.io/github/downloads/AvenCores/Unlock_AI_and_EN_Services_for_Russia/total?style=for-the-badge" alt="Downloads"></a>
   <a href="https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/pulls"><img src="https://img.shields.io/github/issues-pr/AvenCores/Unlock_AI_and_EN_Services_for_Russia?style=for-the-badge" alt="GitHub pull requests"></a>
   <a href="https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/issues"><img src="https://img.shields.io/github/issues/AvenCores/Unlock_AI_and_EN_Services_for_Russia?style=for-the-badge" alt="GitHub issues"></a>
