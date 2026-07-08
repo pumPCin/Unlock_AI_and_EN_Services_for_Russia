@@ -16,18 +16,14 @@
 ![maxresdefault](https://github.com/user-attachments/assets/a7333079-3bd3-405e-9a9e-c1f63191c1cf)
 
 <p align="center">
-  <!-- Бейдж лицензии -->
-  <a href="https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/AvenCores/Unlock_AI_and_EN_Services_for_Russia?style=flat-square" alt="License"/>
-  </a>
-  <!-- Бейдж последнего релиза -->
-  <a href="https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/releases/latest">
-    <img src="https://img.shields.io/github/v/release/AvenCores/Unlock_AI_and_EN_Services_for_Russia?style=flat-square" alt="Latest release"/>
-  </a>
-  <!-- Бейдж количества скачиваний -->
-  <a href="https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/releases">
-    <img src="https://img.shields.io/github/downloads/AvenCores/Unlock_AI_and_EN_Services_for_Russia/total?style=flat-square" alt="Downloads"/>
-  </a>
+  <a href="https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia"><img src="https://img.shields.io/badge/shell-3670A0?style=for-the-badge&logo=shell&logoColor=ffdd54" alt="Shell"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge" alt="GPL-3.0 License"></a>
+  <a href="https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/releases/latest"><img src="https://img.shields.io/github/v/release/AvenCores/Unlock_AI_and_EN_Services_for_Russia?style=for-the-badge" alt="Latest release"></a>
+  <a href="https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/stargazers"><img src="https://img.shields.io/github/stars/AvenCores/Unlock_AI_and_EN_Services_for_Russia?style=for-the-badge" alt="GitHub stars"></a>
+  <img src="https://img.shields.io/github/forks/AvenCores/Unlock_AI_and_EN_Services_for_Russia?style=for-the-badge" alt="GitHub forks">
+  <a href="https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/releases"><img src="https://img.shields.io/github/downloads/AvenCores/Unlock_AI_and_EN_Services_for_Russia/total?style=for-the-badge" alt="Downloads"></a>
+  <a href="https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/pulls"><img src="https://img.shields.io/github/issues-pr/AvenCores/Unlock_AI_and_EN_Services_for_Russia?style=for-the-badge" alt="GitHub pull requests"></a>
+  <a href="https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/issues"><img src="https://img.shields.io/github/issues/AvenCores/Unlock_AI_and_EN_Services_for_Russia?style=for-the-badge" alt="GitHub issues"></a>
 </p>
 
 # Unlock AI & EN Services for Russia
